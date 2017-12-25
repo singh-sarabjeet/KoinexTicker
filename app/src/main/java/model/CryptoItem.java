@@ -5,7 +5,7 @@ package model;
  */
 
 public class CryptoItem {
-    
+
     private String name;
     private String symbol;
     private String price;
